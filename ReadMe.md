@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering student at Hanoi University of Science and Technology. I am interested in various fields: AI (Machine Learning and Deep Learning), Embedded System (Arduino, ESP32, Raspberry Pi) and currently self-study Robotics and Physical AI.
+I am a Computer Engineering student at Hanoi University of Science and Technology. I am interested in various fields: AI (Machine Learning and Deep Learning), Embedded Systems (Arduino, ESP32, Raspberry Pi) and currently self-studying Robotics and Physical AI.
 
 
 ## 🌐 Socials:
